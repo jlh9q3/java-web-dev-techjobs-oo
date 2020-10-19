@@ -13,7 +13,7 @@ public class Job {
     private Location location;
     private PositionType positionType;
     private CoreCompetency coreCompetency;
-//    private Job
+//    private
 
     public Job() {
         id = nextId;

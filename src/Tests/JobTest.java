@@ -24,7 +24,6 @@ public class JobTest {
                 new PositionType("UX"), new CoreCompetency("Taste"));
         Job job4 = new Job();
 
-        //Not sure why this @Before is not working in the @Test methods below?  Ask TF about this.
     }
 
     @Test

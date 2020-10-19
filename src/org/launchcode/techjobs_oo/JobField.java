@@ -30,8 +30,6 @@ public abstract class JobField {
         return Objects.hash(id);
     }
 
-    // getters and setters for the 'value' field but
-    //  ONLY a getter for the 'id' field.
 
     public String getValue() {
         return value;
